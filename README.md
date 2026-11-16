@@ -1,23 +1,28 @@
+<div align="center">
 
-  # Nova UI Launcher
+# Nova UI Launcher
 
-  **Hello UI na estrutura. Pixel no minimalismo. Material You nas cores.**
+</div>
 
-  Um launcher Android que junta a Central de Controle da Motorola, a tela inicial limpa do Pixel e o tema dinâmico do Material You 3.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/Nova-UI-Launcher/main/Pngs/InShot_20261116_124157993.png" width="30%" alt="Nova UI Launcher em um aparelho">
+</div>
 
-  <p>
+<div align="center">
+
+  <p align="center">
     <a href="https://github.com/YTAgenteAndroidOFC/Nova-UI-Launcher">
       <img src="https://m3-markdown-badges.vercel.app/stars/1/2/YTAgenteAndroidOFC/Nova-UI-Launcher" alt="Estrelas">
     </a>
   </p>
 
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/badge/Android-13%2B-003060?style=for-the-badge&labelColor=A6C8FF&logo=android&logoColor=003060" alt="Android 13+">
     <img src="https://img.shields.io/badge/Material%20You-3-003060?style=for-the-badge&labelColor=A6C8FF&logo=materialdesign&logoColor=003060" alt="Material You 3">
     <img src="https://img.shields.io/badge/Shizuku-Opcional-003060?style=for-the-badge&labelColor=A6C8FF&logoColor=003060" alt="Shizuku opcional">
   </p>
 
-  <p>
+  <p align="center">
     <a href="https://github.com/YTAgenteAndroidOFC/Nova-UI-Launcher/releases">
       <img src="https://img.shields.io/badge/Baixar%20APK-003060?style=for-the-badge&labelColor=A6C8FF&logo=android&logoColor=003060" alt="Baixar APK">
     </a>
@@ -26,15 +31,22 @@
     </a>
   </p>
 
-  <img src="https://img.shields.io/github/downloads/YTAgenteAndroidOFC/Nova-UI-Launcher/total?style=for-the-badge&label=Downloads&labelColor=A6C8FF&color=003060" alt="Total de downloads">
+  <p align="center">
+    <img src="https://img.shields.io/github/downloads/YTAgenteAndroidOFC/Nova-UI-Launcher/total?style=for-the-badge&label=Downloads&labelColor=A6C8FF&color=003060" alt="Total de downloads">
+  </p>
+
+</div>
+
+  <br><br>
+
+  **Hello UI na estrutura. Pixel no minimalismo. Material You nas cores.**
+
+  Um launcher Android que junta a Central de Controle da Motorola, a tela inicial limpa do Pixel e o tema dinâmico do Material You 3.
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/Nova-UI-Launcher/main/Pngs/InShot_20261116_124157993.png" width="60%" alt="Nova UI Launcher em um aparelho">
-</div>
 
 ## Sobre o projeto
 
@@ -62,29 +74,96 @@ Recursos que mexem mais fundo no sistema são opcionais e passam pelo Shizuku, e
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/Nova-UI-Launcher/main/screenshots/home.png" width="31%" alt="Tela inicial">
-  <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/Nova-UI-Launcher/main/screenshots/personalise.png" width="31%" alt="Central de personalização">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <strong>Tela inicial</strong><br><br>
+        <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/Nova-UI-Launcher/main/Pngs/Tela_inicial.png" width="100%" alt="Tela inicial">
+      </td>
+      <td align="center" width="33%">
+        <strong>Aba Apps</strong><br><br>
+        <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/Nova-UI-Launcher/main/Pngs/Apps_Drwaler.png" width="100%" alt="Aba Apps">
+      </td>
+      <td align="center" width="33%">
+        <strong>Wallpaper animado</strong><br><br>
+        <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/Nova-UI-Launcher/main/Pngs/Wall_Live.png" width="100%" alt="Wallpaper animado">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <strong>Configurações</strong><br><br>
+        <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/Nova-UI-Launcher/main/Pngs/Config.png" width="100%" alt="Configurações">
+      </td>
+      <td align="center" width="33%">
+        <strong>Gestos e RAM</strong><br><br>
+        <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/Nova-UI-Launcher/main/Pngs/Gestps_Ram.png" width="100%" alt="Gestos e RAM">
+      </td>
+      <td align="center" width="33%">
+        <strong>Shizuku</strong><br><br>
+        <img src="https://raw.githubusercontent.com/YTAgenteAndroidOFC/Nova-UI-Launcher/main/Pngs/Shizuku.png" width="100%" alt="Shizuku">
+      </td>
+    </tr>
+  </table>
 
 </div>
 
-## De onde vem cada parte
+# De onde vem cada parte
 
-| Inspiração | O que o Nova UI leva |
-|---|---|
-| **Motorola Hello UI** | Central de Controle, tipografia e elementos de interface |
-| **Google Pixel** | Tela inicial, relógio e layout minimalista |
-| **Material You 3** | Cores dinâmicas, superfícies arredondadas e temas adaptativos |
+<div align="center">
+
+<table>
+  <tr>
+    <th align="center">Inspiração</th>
+    <th align="center">O que o Nova UI leva</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Motorola Hello UI</b></td>
+    <td align="center">Central de Controle, tipografia e elementos de interface</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Google Pixel</b></td>
+    <td align="center">Tela inicial, relógio e layout minimalista</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Material You 3</b></td>
+    <td align="center">Cores dinâmicas, superfícies arredondadas e temas adaptativos</td>
+  </tr>
+</table>
+
+</div>
 
 ## Informações do projeto
 
-| Informação | Detalhes |
-|---|---|
-| Nome | Nova UI Launcher |
-| Plataforma | Android |
-| Android mínimo | Android 13 (compatibilidade alvo) |
-| Design | Hello UI, Pixel e Material You 3 |
-| Integração | Shizuku (opcional) |
-| Status | Em desenvolvimento |
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><b>Nome</b></td>
+    <td align="center">Nova UI Launcher</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Plataforma</b></td>
+    <td align="center">Android</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Android mínimo</b></td>
+    <td align="center">Android 13 (compatibilidade alvo)</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Design</b></td>
+    <td align="center">Hello UI, Pixel e Material You 3</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Integração</b></td>
+    <td align="center">Shizuku (opcional)</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Status</b></td>
+    <td align="center">Em desenvolvimento</td>
+  </tr>
+</table>
+
+</div>
 
 ## Requisitos
 
@@ -103,16 +182,6 @@ Baixe a versão mais recente na página de releases.
   </a>
 
 </div>
-
-## Estrutura do repositório
-
-```
-Nova-UI-Launcher/
-├── app/
-├── Pngs/
-├── screenshots/
-└── README.md
-```
 
 ## Repositório e colaboração
 
